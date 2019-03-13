@@ -1,6 +1,5 @@
 # Questionare Recommendation Engine
 
-About Practice Problem: Recommendation Engine
 Recommendation Engine
 
 Recommending the questions that a programmer should solve given his/her current expertise is a big challenge for Online Judge Platforms but is an essential task to keep a programmer engaged on their platform.
